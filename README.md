@@ -1,4 +1,4 @@
-https://dev.azure.com/clpgroup/Test/_apis/build/status/vincent-chan-hk.js-e2e-express-server?branchName=main
+[![Build Status](https://dev.azure.com/clpgroup/Test/_apis/build/status/vincent-chan-hk.js-e2e-express-server?branchName=main)](https://dev.azure.com/clpgroup/Test/_build/latest?definitionId=65&branchName=main)
 ---
 page_type: sample
 languages:
