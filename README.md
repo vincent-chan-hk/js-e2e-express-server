@@ -9,6 +9,7 @@ products:
 - azure
 - vs-code
 ---
+[![Build Status](https://dev.azure.com/clpgroup/Test/_apis/build/status/vincent-chan-hk.js-e2e-express-server?branchName=main)](https://dev.azure.com/clpgroup/Test/_build/latest?definitionId=65&branchName=main)
 
 # JavaScript end-to-end client file upload to Azure Storage Blobs
 
